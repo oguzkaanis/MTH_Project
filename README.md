@@ -22,7 +22,7 @@ In file [PRD]_Inventory_Tracking_System , You can find detailed information abou
 - **Language:** C# 
 - **Framework:** .NET 8.0
 - **UI Framework:** Windows Forms
-- **Development Environment:** Visual Studio / Cursor
+- **Development Environment:** Visual Studio
 - **Version Control:** Git
 
 ## Installation and Setup
