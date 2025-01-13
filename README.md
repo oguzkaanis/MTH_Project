@@ -1,5 +1,7 @@
-## Project Overview
-BITS is a Windows Forms application developed using C# and .NET that provides a simple and efficient way to manage inventory. The system offers essential functionalities for tracking products, including adding new stock, editing existing items, and managing inventory levels. This application is designed to help businesses maintain accurate records of their product inventory.
+## Aim of the project
+BITS is a Windows Forms application developed using C# and .NET that provides a simple and efficient way to manage inventory. The system offers essential functionalities for tracking products, including adding new stock, editing existing items, and managing inventory levels. This application is designed to help businesses maintain accurate records of their product inventory. 
+
+## In file [PRD]_Inventory_Tracking_System , You can find detailed information about the features of the Inventory Tracking System and why it was developed 
 
 ## Features
 - **User Authentication**: Secure login system to protect inventory data
@@ -16,7 +18,7 @@ BITS is a Windows Forms application developed using C# and .NET that provides a 
   - Easy-to-use forms for data entry
   - Responsive grid view for product display
 
-## Technology Stack
+### Prerequisites
 - **Language:** C# 
 - **Framework:** .NET 8.0
 - **UI Framework:** Windows Forms
@@ -24,15 +26,13 @@ BITS is a Windows Forms application developed using C# and .NET that provides a 
 - **Version Control:** Git
 
 ## Installation and Setup
-
-### Prerequisites
 - .NET 8.0 SDK or later
 - Windows Operating System
 
 ### Steps to Run
 1. Clone the Repository:
 ```bash
-git clone https://github.com/oguzkaanis/MTH404_Project
+git clone https://github.com/oguzkaanis/MTH_Project
 ```
 
 2. Navigate to Project Directory:
