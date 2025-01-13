@@ -1,0 +1,14 @@
+C:\Users\oguzk\OneDrive\Masaüstü\mth_1\EnvanterTakip\obj\Debug\net8.0-windows\EnvanterTakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzk\OneDrive\Masaüstü\mth_1\EnvanterTakip\obj\Debug\net8.0-windows\EnvanterTakip.AssemblyInfoInputs.cache
+C:\Users\oguzk\OneDrive\Masaüstü\mth_1\EnvanterTakip\obj\Debug\net8.0-windows\EnvanterTakip.AssemblyInfo.cs
+C:\Users\oguzk\OneDrive\Masaüstü\mth_1\EnvanterTakip\obj\Debug\net8.0-windows\EnvanterTakip.csproj.CoreCompileInputs.cache
+C:\Users\oguzk\OneDrive\Masaüstü\mth_1\EnvanterTakip\bin\Debug\net8.0-windows\EnvanterTakip.exe
+C:\Users\oguzk\OneDrive\Masaüstü\mth_1\EnvanterTakip\bin\Debug\net8.0-windows\EnvanterTakip.deps.json
+C:\Users\oguzk\OneDrive\Masaüstü\mth_1\EnvanterTakip\bin\Debug\net8.0-windows\EnvanterTakip.runtimeconfig.json
+C:\Users\oguzk\OneDrive\Masaüstü\mth_1\EnvanterTakip\bin\Debug\net8.0-windows\EnvanterTakip.dll
+C:\Users\oguzk\OneDrive\Masaüstü\mth_1\EnvanterTakip\bin\Debug\net8.0-windows\EnvanterTakip.pdb
+C:\Users\oguzk\OneDrive\Masaüstü\mth_1\EnvanterTakip\obj\Debug\net8.0-windows\EnvanterTakip.dll
+C:\Users\oguzk\OneDrive\Masaüstü\mth_1\EnvanterTakip\obj\Debug\net8.0-windows\refint\EnvanterTakip.dll
+C:\Users\oguzk\OneDrive\Masaüstü\mth_1\EnvanterTakip\obj\Debug\net8.0-windows\EnvanterTakip.pdb
+C:\Users\oguzk\OneDrive\Masaüstü\mth_1\EnvanterTakip\obj\Debug\net8.0-windows\EnvanterTakip.genruntimeconfig.cache
+C:\Users\oguzk\OneDrive\Masaüstü\mth_1\EnvanterTakip\obj\Debug\net8.0-windows\ref\EnvanterTakip.dll
